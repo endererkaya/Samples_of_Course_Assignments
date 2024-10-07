@@ -1,2 +1,2 @@
 # Selected_Homeworks_Projects
-Selected Homeworks and Course Assignments
+## Samples of Homeworks and Course Assignments. This repo is intended to give information about the courses I have taken and my approach to any task that I undertake.
